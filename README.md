@@ -1,5 +1,2 @@
-
-Splash
-sacreen![f1] (https://github.com/Ukashaasi587/food-app-ui-Adobe-xd/assets/101490894/c6a7f3dc-abb6-406f-a460-e5604b3a47cf)  
-
-
+splash
+![f1](https://github.com/Ukashaasi587/food-app-ui-Adobe-xd/assets/101490894/55eb0e72-1e84-4d37-97fe-b37e168189b9)
